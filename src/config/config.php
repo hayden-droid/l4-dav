@@ -23,7 +23,7 @@ return array(
 	|
 	 */
 
-	'url' => 'http://localhost/webdav/',
+	'url' => 'https://memeitizer.com/files/',
 
 	/*
 	|--------------------------------------------------------------------------
